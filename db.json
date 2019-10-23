@@ -1,7 +1,19 @@
 {
   "login": {
-    "userid": 1,
-    "tokenKey": "xxxxxxxxx",
-    "tokenExp": "2020-01-01"
+    "message": "login success",
+    "data": {
+      "userid": 1,
+      "tokenKey": "xxxxxxxxx",
+      "tokenExp": "2020-01-01"
+    }
+  },
+  "profile": {
+    "message": "success get profile",
+    "data": {
+      "userid": 1,
+      "fullname": "beckstudio",
+      "phone": 62000000,
+      "subscription": "basic"
+    }
   }
 }
