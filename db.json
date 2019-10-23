@@ -1,3 +1,7 @@
 {
-  "login": "hehe"
+  "login": {
+    "userid": 1,
+    "tokenKey": "xxxxxxxxx",
+    "tokenExp": "2020-01-01"
+  }
 }
